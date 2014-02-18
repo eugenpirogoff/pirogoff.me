@@ -11,10 +11,10 @@ def run(command):
     
     # logger.info(os.environ['PATH'])
 
-    process = subprocess.Popen([command], 
-        shell=True, 
-        stdin=subprocess.PIPE, 
-        stdout=subprocess.PIPE, 
+    process = subprocess.Popen([command],
+        shell=True,
+        stdin=subprocess.PIPE,
+        stdout=subprocess.PIPE,
         stderr=subprocess.PIPE)
     
     stdout = process.stdout.readline()
