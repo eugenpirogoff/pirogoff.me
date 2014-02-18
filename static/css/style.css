@@ -50,13 +50,11 @@ a#documentation {
 }
 
 #link {
-	cursor: default;
 	text-decoration: none;
 	color: #696969;
 }
 
 #postings a{
-	cursor: default;
 	text-decoration: none;
 	color: #696969;
 }
