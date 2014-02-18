@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block content %}
+
+<section id="wrapper">
+  <header id="header">
+    <img id="avatar" class="2x" src="{% static '/static/images/avatar.jpg'%}"/>
+    <h1>
+      <a id="link" href="/files/C04A9762.asc" target="_new">{% block title %}Eugen Pirogoff{% endblock title %}</a>
+    </h1>
+    <h4>code, improvement and other findings</a>
+    </h4>
+    <a id="link" href="http://www.twitter.com/eugenpirogoff" target="_new"><i class="fa fa-twitter-square fa-2x"></i></a>
+    <a id="link" href="http://www.github.com/eugenpirogoff" target="_new"><i class="fa fa-github-square fa-2x"></i></a>
+    <a id="link" href="http://de.linkedin.com/in/eugenpirogoff/" target="_new"><i class="fa fa-linkedin-square fa-2x"></i></a>
+    <a id="link" href="http://instagram.com/eugenpirogoff" target="_new"><i class="fa fa-instagram fa-2x"></i></a>
+  </header>
+  <section id="postings">
+    <a link="link" href="https://medium.com/html-css-and-happiness/32e8be47379b" target="_new">
+    {% filter markdown %}
+     InstaDiv - a selfupdateing instagram background
+    {% endfilter %}
+    </a>
+  </section>
+</section>
+{% endblock content %}
+
