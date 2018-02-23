@@ -9,7 +9,7 @@ hasCJKLanguage = false
 
 [params]
 	author = "Eugen Pirogoff"
-	description = ""
+	description = "Interested in making things in general. Plastic, metals, electrons or silicon. Its a craftsmanship."
 	bio = ""
 
 	twitter = "@eugenpirogoff"
@@ -22,7 +22,7 @@ hasCJKLanguage = false
 	# disqusShortname = "your_disqus_short_name"
 
 
-	enableSummary = true
+	enableSummary = false
 	# Set the value to true if use description in post front matter replace content summary
 	useDescriptionReplaceSummary = false
 
@@ -44,7 +44,7 @@ hasCJKLanguage = false
 	# translate or customize each string of the theme.
 
 	# Navigation links
-	home = ""
+	# home = ""
 	about = ""
 	archive = ""
 	subscribe = ""
@@ -54,11 +54,11 @@ hasCJKLanguage = false
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = false
+	showLatestPosts = true
 	readMore = ""
 
 	# Share
-	enableShare = true
+	enableShare = false
 	tweet = ""
 	share = ""
 
@@ -75,5 +75,5 @@ hasCJKLanguage = false
 # Add additional social link entries underneath
 [social]
 	# facebook-square = "https://www.facebook.com/nodejh"
-	twitter-square = "https://www.twitter.com/eugenpirogoff"
-	github-square = "https://www.github.com/eugenpirogoff"
+	# twitter-square = "https://www.twitter.com/eugenpirogoff"
+	# github-square = "https://www.github.com/eugenpirogoff"
