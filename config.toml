@@ -6,6 +6,9 @@ theme = "hugo-theme-cactus-plus"
 # googleAnalytics = "your_google_analytics_id"
 # Set the value to true if your site include CJK (Chinese, Japanese, and Korean languages) characters
 hasCJKLanguage = false
+pygmentsUseClasses=true
+pygmentsCodeFences=true
+
 
 [params]
 	author = "Eugen Pirogoff"
@@ -37,8 +40,8 @@ hasCJKLanguage = false
 	# twitterCardImage = ""
 
 	# Add custom assets with their paths relative to the static folder
-	customCSS = []
-	customJS  = []
+	customCSS = ["css/syntax.css"]
+	customJS  = ["js/piwik.js","js/highlight.min.js"]
 
 	# The variables below are optionally too and can be used to
 	# translate or customize each string of the theme.
@@ -54,7 +57,7 @@ hasCJKLanguage = false
 	copyright = ""
 
 	# show latest posts in single page
-	showLatestPosts = true
+	showLatestPosts = false
 	readMore = ""
 
 	# Share
