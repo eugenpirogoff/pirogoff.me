@@ -1,11 +1,8 @@
 +++
-title = "Pluto - JS remote controller "
-description = "remote controller with WebSocket and WebRTC for transmission"
-
+title = "Pluto - game remote controller"
 date = "2013-09-30"
 menu = "main"
 +++
-
 As a part for my bachelor thesis i have written a remote controller for the game HexGL that runs platform agnostic inside a web browser. It just needs WebSockets or WebRTC for communication between the devices and a fast connection (i recommend to use chrome). The controller is designed to run on a phone or a tablet. The game itself is a WebGL implementation of WipeOut that runs completely in your browser on a desktop or mobile device and has been written by Thibaut Despoulain.
 
 ![alt text](/images/pluto_thumb_1.png")

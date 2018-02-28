@@ -12,8 +12,8 @@ pygmentsCodeFences=true
 
 [params]
 	author = "Eugen Pirogoff"
-	description = "Interested in making things in general. Plastic, metals, electrons or silicon. Its a craftsmanship."
-	bio = ""
+	description = ""
+	bio = "Interested in making things in general. Plastic, metals, wood or electrons. Its a craftsmanship."
 
 	twitter = "@eugenpirogoff"
 	# facebook = "your_facebook_id"
@@ -66,7 +66,7 @@ pygmentsCodeFences=true
 	share = ""
 
 	# 404 page
-	title404 = ""
+	title404 = "404"
 	subtitle404 = ""
 
 	# Choose a font for the social icons in the footer. Either "mono-social" or "font-awesome"
