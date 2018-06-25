@@ -14,11 +14,10 @@ Just replace SSID, Password and Type ( encryption can be WEP/WPA ) and encode it
 
 Even thus iOS is capable of decoding the WiFi credentials right out of the box there was no dedicated app for it that served just this simple purpose of creating shareable QR codes for WiFi. So I made one.
 
-No logging, no tracking, one purpose. Enjoy.
+No logging, no tracking, one purpose. [Source is available on GitHub](https://github.com/eugenpirogoff/Wifi-to-QR). Enjoy. 
 
 
-![WiFi to QR](https://github.com/eugenpirogoff/Wifi-to-QR/blob/master/AssetSource/Screenshot.png?raw=true)
+![WiFi to QR](https://github.com/eugenpirogoff/Wifi-to-QR/blob/master/AssetSource/Screenshot_big.png?raw=true)
 
-[![Download on the App Store](https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg)](https://itunes.apple.com/us/app/wifi-to-qr/id1389058201?mt=8)
+<a href="https://itunes.apple.com/us/app/wifi-to-qr/id1389058201?mt=8"><img src="https://linkmaker.itunes.apple.com/assets/shared/badges/en-us/appstore-lrg.svg" width="100" height="50"/></a>
 
-[Sourcecode on GitHub](https://github.com/eugenpirogoff/Wifi-to-QR)
